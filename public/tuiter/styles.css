@@ -1,0 +1,9 @@
+.wd-container{
+   border-width: 1px;
+   border-color: rgb(110, 118, 125);
+   border-style: solid;
+ }
+
+.wd-background {
+  background-color: black;
+}

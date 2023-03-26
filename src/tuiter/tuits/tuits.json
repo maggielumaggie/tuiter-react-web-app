@@ -1,0 +1,46 @@
+[
+  {
+    "_id": 234,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "../images/spacex.jpg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 234,
+    "likes": 345,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+  },
+  {
+    "_id": 345,
+    "topic": "NASA",
+    "userName": "nasa",
+    "time": "5d",
+    "title": "NASA hopes to clean up space junk; experts say the days of uncluttered night skies are \"over\"",
+    "image": "../images/nasa.jpg",
+    "liked": false,
+    "replies": 345,
+    "retuits": 567,
+    "likes": 789,
+    "handle": "@nasa",
+    "tuit": "Despite this bleak prognosis, space agencies believe they can at least improve the situation (even if it's too late to cure it). Hence, NASA released its new report earlier this month on orbital debris remediation."
+
+  },
+  {
+    "_id": 456,
+    "topic": "Energy",
+    "userName": "Tesla",
+    "time": "8h",
+    "title": "Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas.",
+    "image": "../images/tesla.jpg",
+    "liked": false,
+    "replies": 128,
+    "retuits": 891,
+    "likes": 312,
+    "handle": "@tesla",
+    "tuit": "Tesla has unveiled the Vision Park Assist feature with its new software update, version 2023.6.9 for non-FSD Beta vehicles. This cutting-edge feature employs the car's cameras to measure distances to nearby objects, offering users valuable parking assistance."
+
+  }
+]

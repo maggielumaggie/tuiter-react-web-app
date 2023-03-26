@@ -1,0 +1,28 @@
+.profile-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.profile-header-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.profile-header-link {
+  color: black;
+}
+
+.profile-image {
+  margin-top: -50px;
+  margin-left: 20px;
+  width: 90%;
+}
+
+.profile-save-button {
+  margin-bottom: 8px;
+}

@@ -1,0 +1,55 @@
+.wd-search-tuiter {
+  left: 10px;
+  bottom: 10px;
+}
+
+.wd-search-color {
+  color: gray;
+}
+
+.wd-search-bg-color {
+  background-color: rgb(245 248 250);
+  border-color: rgb(245 248 250);
+}
+
+.wd-left-item-style {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.wd-right-item-style {
+  background-color: rgb(245 248 250);
+  border-color: rgb(245 248 250);
+}
+
+
+.wd-highlight {
+  color: rgb(36, 160, 237)
+}
+
+.wd-highlight-tuit {
+  background-color: rgb(36, 160, 237);
+  border-color: rgb(36, 160, 237);
+  color: white;
+}
+
+.wd-small-text-pos {
+  left: 10px;
+  bottom: 35px;
+}
+
+.wd-large-text-pos {
+  left: 10px;
+  bottom: 5px;
+}
+
+.wd-nav-border {
+  border-bottom: 5px solid rgb(36, 160, 237);
+}
+
+.wd-ellipsis-pos {
+  right: 20px;
+  top: 20px;
+}
+
+

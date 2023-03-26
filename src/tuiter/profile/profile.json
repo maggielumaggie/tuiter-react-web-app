@@ -1,0 +1,14 @@
+{
+  "firstName": "Maggie",
+  "lastName": "Lu",
+  "handle": "@maggielumaggie",
+  "profilePicture": "tuiter.jpg",
+  "bannerPicture": "banner.jpg",
+  "bio": "NEU CS student",
+  "website": "https://github.com/maggielumaggie",
+  "location": "Bellevue, WA",
+  "dateOfBirth": "11/23/1999",
+  "dateJoined": "3/2023",
+  "followingCount": 123,
+  "followersCount": 234
+}
